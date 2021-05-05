@@ -6,9 +6,9 @@ To clone and run this repository you'll need [Git](https://git-scm.com) and [Nod
 
 ```bash
 # Clone this repository
-git clone https://github.com/wyntonfranklin/electron-tutorial.git
+git clone git@github.com:tejas01101001/NoteMaster.git
 # Go into the repository
-cd electron-tutorial
+cd NoteMaster
 # Install dependencies
 npm install
 # Run the app
